@@ -15,7 +15,7 @@ googleapis-common-protos==1.51.0
 grpcio==1.28.1
 idna==2.5
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 numpy==1.18.4
 pandas==1.0.4
