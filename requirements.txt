@@ -41,7 +41,7 @@ ruamel.yaml.clib==0.2.0
 six==1.14.0
 soupsieve==2.0.1
 terminaltables==3.1.0
-urllib3==1.21.1
+urllib3==1.26.5
 vk-api==11.8.0
 wcwidth==0.1.9
 Werkzeug==1.0.1
